@@ -1,1 +1,2 @@
-#test
+name= "dinisha:test:01:new-folder"
+print(name.split(":"))
